@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+h1{
+    background-color: blueviolet;
+    color: wheat;
+    text-align: center;
+    margin: 10px;
+}
+.div-two{
+    background-color: aqua;
+    color: darkgoldenrod;
+    font-size: 1rem;
+    margin: 10px;
+    padding: 30px;
+
+}
